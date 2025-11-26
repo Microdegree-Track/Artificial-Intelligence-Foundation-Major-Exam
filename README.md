@@ -9,6 +9,8 @@
 
 ## Project 1. Fashion-MNIST 이미지 분류 (Simple CNN)
 
+![1](https://github.com/user-attachments/assets/32e7f03c-d545-42d5-92aa-72764dc6bf76)
+
 ### 1. Overview
 간단한 컨볼루션 신경망(CNN)을 사용하여 Fashion-MNIST 의류 이미지(28×28, grayscale)를 10개 클래스(티셔츠, 바지, 드레스 등)로 분류하는 프로젝트입니다.
 
@@ -47,6 +49,9 @@
 ---
 
 ## Project 2. YOLOv5 마스크 착용 상태 인식
+
+
+<img width="726" height="869" alt="image" src="https://github.com/user-attachments/assets/c294e680-ad0c-4a78-86a4-df3e7276bbe8" />
 
 ### 1. Overview
 YOLOv5 기반 객체 인식 모델을 활용하여 사람 얼굴 영역을 탐지하고, 마스크 착용 상태를 3가지 클래스로 분류하는 프로젝트입니다.
